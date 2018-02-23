@@ -1,2 +1,3 @@
 Sarah Whetstone 
-Lab 
+Partner: Salome Philip
+Lab 5 
